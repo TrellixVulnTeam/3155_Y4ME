@@ -1,0 +1,20 @@
+{
+  "name": "HRdash",
+  "homepage": "https://github.com/nexus671/Swiper",
+  "authors": [
+    "Ahmane <acurrymuir@gmail.com>"
+  ],
+  "description": "[",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gentelella": "^1.4.0"
+  }
+}
