@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/../HRanalytics/.idea/HRanalytics.iml" filepath="$PROJECT_DIR$/../HRanalytics/.idea/HRanalytics.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/Dashboard.iml" filepath="$PROJECT_DIR$/.idea/Dashboard.iml" />
->>>>>>> 6d0cb4593675542b28671e62b3c241b222376048
+      <module fileurl="file://$PROJECT_DIR$/.idea/4155-Continental.iml" filepath="$PROJECT_DIR$/.idea/4155-Continental.iml" />
     </modules>
   </component>
 </project>
